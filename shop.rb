@@ -1,3 +1,5 @@
+# Code was created by John Vecchio
+
 customer = Input.cart.customer
 discount = 1 # Discount start variable 
 
